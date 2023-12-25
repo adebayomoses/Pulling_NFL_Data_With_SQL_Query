@@ -11,7 +11,7 @@ The ultimate Soccer database
 
 Seasons 2008 to 2016
 
-Players and Teams' attributes* sourced from EA Sports' FIFA video game series, including the weekly updates
+Players and Teams' attributes* sourced from EA Sports FIFA video game series, including the weekly updates
 
 Team line up with squad formation (X, Y coordinates)
 
